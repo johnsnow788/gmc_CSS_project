@@ -47,12 +47,19 @@ img{
 /* content */
 .content{
 
-  background-color: rgb(162, 63, 63);
+  background-color:black;
   margin-top: 10px ;
   margin-bottom: 0px ;
   border-radius: 20px;
-  padding: 10px;
+  padding: 20px;
 
+}
+
+.blockk{
+    color: black;
+    background-color:  rgb(162, 63, 63);
+    padding: 10px;
+    border-radius: 5px;
 }
 
 h4{
